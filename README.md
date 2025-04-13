@@ -30,8 +30,8 @@ A full-stack e-commerce platform built with NextJS 15 and React 19, inspired by 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/danablend/public-nextjs-15-sanity-stripe-full-ecommerce-tutorial.git
-cd public-nextjs-15-sanity-stripe-full-ecommerce-tutorial
+git clone https://github.com/danablend/next-temu-clone-video.git
+cd next-temu-clone-video
 ```
 
 2. Install dependencies
