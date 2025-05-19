@@ -94,3 +94,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📝 Notes
 This is a project built for educational purposes. It's not affiliated with TEMU.
+
+# https://www.youtube.com/watch?v=-_-kvPiMybw
